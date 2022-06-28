@@ -23,6 +23,7 @@ var (
 		SELFBALANCE:  {traceContractAccount},
 		BALANCE:      {traceLastNAddressAccount(0)},
 		EXTCODEHASH:  {traceLastNAddressAccount(0)},
+		CODESIZE:     {},
 	}
 )
 
